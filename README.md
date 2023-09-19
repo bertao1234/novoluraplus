@@ -1,1 +1,1 @@
-# novoluraplus
+# alura-plus
